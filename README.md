@@ -120,7 +120,6 @@ flowchart LR
 ```
 marketplace-analytics/
 ├── Wanderly_Marketplace_Analytics.ipynb   # THE analysis — 60 cells, fully executed
-├── generate_data.py                  # built data/ once (seed 42) — no need to re-run
 ├── build_notebook.py                 # generates the .ipynb from ordered cells
 ├── run_notebook.py                   # executes the notebook (no kernel needed)
 ├── analysis.py                       # standalone script version of the charts
