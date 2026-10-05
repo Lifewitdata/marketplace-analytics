@@ -1,0 +1,61 @@
+supplier_id,city,tier,commission_rate,onboarded
+SUP-001,Paris,gold,0.22,2025-04-08
+SUP-002,London,silver,0.28,2025-05-09
+SUP-003,Rome,silver,0.28,2024-08-04
+SUP-004,Singapore,silver,0.28,2025-04-04
+SUP-005,Dubai,gold,0.22,2024-08-16
+SUP-006,Dubai,silver,0.28,2024-11-12
+SUP-007,New York,silver,0.28,2025-02-20
+SUP-008,Dubai,gold,0.22,2024-12-09
+SUP-009,Paris,platinum,0.15,2025-01-18
+SUP-010,New York,silver,0.28,2025-04-28
+SUP-011,Rome,gold,0.22,2025-04-02
+SUP-012,Paris,silver,0.28,2025-06-19
+SUP-013,Singapore,gold,0.22,2025-04-10
+SUP-014,Barcelona,platinum,0.15,2024-12-17
+SUP-015,Dubai,silver,0.28,2024-08-26
+SUP-016,Tokyo,silver,0.28,2025-03-29
+SUP-017,London,gold,0.22,2024-10-27
+SUP-018,Paris,gold,0.22,2024-12-18
+SUP-019,London,gold,0.22,2024-08-17
+SUP-020,Barcelona,silver,0.28,2024-09-21
+SUP-021,Tokyo,silver,0.28,2024-12-07
+SUP-022,Singapore,gold,0.22,2025-03-12
+SUP-023,New York,silver,0.28,2025-04-29
+SUP-024,New York,gold,0.22,2024-11-19
+SUP-025,Rome,platinum,0.15,2025-03-06
+SUP-026,New York,platinum,0.15,2024-09-11
+SUP-027,New York,silver,0.28,2025-04-13
+SUP-028,London,silver,0.28,2025-03-14
+SUP-029,Dubai,silver,0.28,2024-12-15
+SUP-030,Paris,platinum,0.15,2024-08-20
+SUP-031,London,gold,0.22,2025-03-01
+SUP-032,New York,silver,0.28,2025-01-22
+SUP-033,Dubai,silver,0.28,2025-02-17
+SUP-034,Paris,gold,0.22,2025-01-20
+SUP-035,Dubai,gold,0.22,2024-07-12
+SUP-036,Tokyo,gold,0.22,2024-09-17
+SUP-037,Tokyo,gold,0.22,2025-05-07
+SUP-038,New York,gold,0.22,2024-07-22
+SUP-039,Tokyo,silver,0.28,2024-10-15
+SUP-040,Rome,silver,0.28,2025-01-19
+SUP-041,Tokyo,gold,0.22,2025-02-27
+SUP-042,London,gold,0.22,2025-04-23
+SUP-043,Barcelona,platinum,0.15,2024-07-09
+SUP-044,New York,gold,0.22,2025-03-20
+SUP-045,Singapore,silver,0.28,2024-08-28
+SUP-046,Tokyo,silver,0.28,2024-08-25
+SUP-047,London,gold,0.22,2024-12-10
+SUP-048,Rome,silver,0.28,2024-10-18
+SUP-049,Dubai,platinum,0.15,2024-11-09
+SUP-050,Barcelona,silver,0.28,2024-08-12
+SUP-051,Barcelona,silver,0.28,2025-05-27
+SUP-052,London,silver,0.28,2024-10-05
+SUP-053,Barcelona,silver,0.28,2025-04-10
+SUP-054,New York,gold,0.22,2024-12-11
+SUP-055,Paris,silver,0.28,2024-08-05
+SUP-056,Rome,gold,0.22,2024-12-13
+SUP-057,Singapore,silver,0.28,2024-10-20
+SUP-058,Dubai,silver,0.28,2024-09-03
+SUP-059,Paris,silver,0.28,2025-04-03
+SUP-060,Singapore,silver,0.28,2024-12-05
